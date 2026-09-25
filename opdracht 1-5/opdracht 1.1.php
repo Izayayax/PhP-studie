@@ -10,9 +10,9 @@
 <?php
 
 $gegevens = [
-    'naam' => 'Jorn Hijlkema',
+    'naam' => 'Iza',
     'leeftijd' => 24,
-    'woonplaats' => 'Gauw'
+    'woonplaats' => 'Nederland'
 ];
 ?>
 <h1><?= "{$gegevens['naam']}"?></h1>
